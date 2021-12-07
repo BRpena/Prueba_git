@@ -1,0 +1,7 @@
+git push origin main 
+user BRpena
+clave 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
+
+
+git clone 
+git remote show origin 
