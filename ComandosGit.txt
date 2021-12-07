@@ -1,1 +1,2 @@
 Para inicar un repositorio usamos el comando git init
+Para adicionar los nuevos cambios o archivos usamos el comando: git add . para adicionar todos
