@@ -1,0 +1,1 @@
+Para inicar un repositorio usamos el comando git init
